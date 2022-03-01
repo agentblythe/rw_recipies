@@ -1,6 +1,6 @@
 # rw_recipies
 
-Following the Ray Wenderlich Flutter Apprentice Book course.
+Following the Ray Wenderlich Flutter Apprentice Book course implementation of a Recipies App
 
 https://www.raywenderlich.com/books/flutter-apprentice/v2.0
 
