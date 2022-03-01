@@ -18,3 +18,5 @@ Chapter 2 Key Points
 - A MaterialApp widget specifies the app, and Scaffold specifies the high-level structure of a given screen.
 - State allows for interactive widgets.
 - When state changes, you usually need to hot restart the app instead of hot reload. In some case, you may also need to rebuild and restart the app entirely.
+- To get a sense of all the widget options available, the documentation at https://api.flutter.dev/ should be your starting point. In particular, the Material library https://api.flutter.dev/flutter/material/material-library.html and Widgets library https://api.flutter.dev/flutter/widgets/widgets-library.html will cover most of what you can put onscreen. Those pages list all the parameters, and often have in-browser interactive sections where you can experiment.
+- For more information about the Dart language, annotations, and its constructs, check out Dart Apprentice https://www.raywenderlich.com/books/dart-apprentice/.
